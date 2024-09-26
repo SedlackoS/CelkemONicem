@@ -1,0 +1,2 @@
+# CelkemONicem
+smazat kdykoliv
