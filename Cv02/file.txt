@@ -1,1 +1,3 @@
-testovaci subor
+Prepisuji všecho
+
+string var_1 = "Ahoj";
